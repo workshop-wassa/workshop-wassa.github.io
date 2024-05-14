@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**April 18**: Second CFP.
+
 **March 6**: The first call for papers is out.
 
 **Jan 15**: We have confirmation that WASSA will take place on Thursday 15 August 2024.
