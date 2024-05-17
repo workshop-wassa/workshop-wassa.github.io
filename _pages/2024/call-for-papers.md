@@ -37,7 +37,7 @@ In the past years we have noticed that WASSA offers a platform to researchers in
 
 ### Important dates
 
-* May 17, 2024 – Submission deadline.
+* ~~May 17, 2024~~ **May 22, 2024** – Submission deadline.
 * June 17, 2024 – Notification of acceptance
 * July 1, 2024 - Camera-ready papers due.
 * August 15, 2024 – Workshop.
