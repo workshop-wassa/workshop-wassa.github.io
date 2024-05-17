@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**May 17**: We extended the deadline for direct submission to WASSA 2024, new deadline = **22 May 2024 AOE**
+
 **April 18**: Second CFP.
 
 **March 6**: The first call for papers is out.
