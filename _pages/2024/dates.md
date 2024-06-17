@@ -15,7 +15,7 @@ header:
 * April 15, 2024 - Second call for papers
 * ~~May 17, 2024~~ **May 22, 2024** - Direct paper submission deadline (extended)
 * May 24, 2024 - Paper commitment from ARR
-* June, 17 2024 – Notification of acceptance
+* ~~June 17, 2024~~ **June 21, 2024** – Notification of acceptance 
 * July 1, 2024 - Camera-ready papers due
 * August 15 or 16, 2024 – Workshop
 
