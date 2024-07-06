@@ -90,7 +90,7 @@ Debora Nozza is an Assistant Professor in Computing Sciences at Bocconi Universi
 - *Monitoring Depression Severity and Symptoms in User-Generated Content: An Annotation Scheme and Guidelines.* Falwah Alhamed, Rebecca Bendayan, Julia Ive, Lucia Specia 
 - *Impact of Decoding Methods on Human Alignment of Conversational LLMs.* Shaz Furniturewala, Kokil Jaidka, Yashvardhan Sharma 
 - *LLaMA-Based Models for Aspect-Based Sentiment Analysis.* Jakub Šmíd, Pavel Priban, Pavel Kral 
-- *A Study of Nationality Bias in Names and Perplexity using Off-the-Shelf Affect-related Tweet Classifiers.*
+- *A Study of Nationality Bias in Names and Perplexity using Off-the-Shelf Affect-related Tweet Classifiers.* Valentin Barriere, Sebastian Cifuentes 
 
 
 ### Oral presentation session 2
