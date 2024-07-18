@@ -34,11 +34,11 @@ Roman Klinger, University of Stuttgart\
 Joaõ Sedoc, New York University\
 Shabnam Tafreshi, University of Maryland
 
-### Local chairs:
+# Local chairs:
 Els Lefever, Ghent University\
 Aaron Maladry, Ghent University\
 Pranaydeep Singh, Ghent University
 
-### Programme Committee
+# Programme Committee
 
 TBA
