@@ -21,7 +21,7 @@ All times are local Bangkok (UTC/GMT +7 hour)
 
 |  Time          |  Programmed Session          |
 | ---------------| -----------------------------|
-|  09:00 - 09:10 |  Opening Remarks by Els Lefever (local WASSA chair) |
+|  09:00 - 09:10 |  [Opening Remarks](#opening) |
 |  09:10 - 10:30 |  [Oral presentation session 1](#oral-presentation-session-1) |
 |  10:30 - 11:00 |  Coffee Break                |
 |  11:00 - 12:00 |  [Shared Task Session](#shared-task)      |
@@ -33,6 +33,16 @@ All times are local Bangkok (UTC/GMT +7 hour)
 |  16:50 - 17:20 |  [Best paper presentations](#best-paper-presentations)       |
 |  17:20 - 18:00 |  [Hybrid Poster Session + closing remarks](#hybridposter-session)        |
 
+
+### Opening
+
+---
+
+The workshop will be opened by our local WASSA 2024 chair:
+
+[Prof. dr. Els Lefever](https://lt3.ugent.be/people/els-lefever/)
+
+She will be assisted by the other local chairs: Aaron Maladry and Pranaydeep Singh.
 
 ### Oral presentation session 1
 
