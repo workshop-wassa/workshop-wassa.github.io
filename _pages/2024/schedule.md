@@ -120,8 +120,8 @@ Chair: TBA
 ---
 Chair: Pranaydeep Singh
 
-- 16:50 - 17:05 - (remote) Best paper 1 *Context is Important in Depressive Language: A Study of the Interaction Between the Sentiments and Linguistic Markers in Reddit Discussions.* Neha Sharma, Kairit Sirts 
-- 17:05 - 17:20 - (in-person) Best paper 2 (multilinguality track) *Loneliness Episodes: A Japanese Dataset for Loneliness Detection and Analysis.* Naoya Fujikawa, Nguyen Quang Toan, Kazuhiro Ito, Shoko Wakamiya, Eiji Aramaki 
+- 16:50 - 17:05 - (remote) Best paper 1 TBA 
+- 17:05 - 17:20 - (in-person) Best paper 2 (multilinguality track) TBA
 
 ### Hybrid Poster session
 ---
