@@ -35,8 +35,8 @@ Joaõ Sedoc, New York University\
 Shabnam Tafreshi, University of Maryland
 
 ### Local chairs:
-Els Lefever, Ghent University
-Aaron Maladry, Ghent University
+Els Lefever, Ghent University\
+Aaron Maladry, Ghent University\
 Pranaydeep Singh, Ghent University
 
 ### Programme Committee
