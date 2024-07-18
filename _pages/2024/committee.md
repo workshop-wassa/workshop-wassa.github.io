@@ -32,7 +32,12 @@ Valentin Barriere, Centro Nacional de Inteligencia Artificial (CENIA)\
 Jeremy Barnes, University of the Basque Country UPV/EHU\
 Roman Klinger, University of Stuttgart\
 Joaõ Sedoc, New York University\
-Shabnam Tafreshi, University of Maryland\
+Shabnam Tafreshi, University of Maryland
+
+### Local chairs:
+Els Lefever, Ghent University
+Aaron Maladry, Ghent University
+Pranaydeep Singh, Ghent University
 
 ### Programme Committee
 
