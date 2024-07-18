@@ -26,8 +26,8 @@ All times are local Bangkok (UTC/GMT +7 hour)
 |  10:30 - 11:00 |  Coffee Break                |
 |  11:00 - 12:00 |  [Shared Task Session](#shared-task)      |
 |  12:00 - 13:00 |  Lunch Break    |
-|  13:00 - 14:00 |  [In-person Poster Session](#poster-session)                 |
-|  14:00 - 15:30 |  [Invited Talk: Debora Nozza](#invited-talk-debora-nozza)                     |
+|  13:00 - 14:30 |  [In-person Poster Session](#poster-session)                 |
+|  14:30 - 15:30 |  [Invited Talk: Debora Nozza](#invited-talk-debora-nozza)                     |
 |  15:30 - 16:00 |  Coffee break |
 |  16:00 - 16:45 |  [Oral presentation session 2](#oral-presentation-session-2)  |
 |  16:50 - 17:20 |  [Best paper presentations](#best-paper-presentations)       |
