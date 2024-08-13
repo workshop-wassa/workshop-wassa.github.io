@@ -14,6 +14,8 @@ header:
 
 ## News
 
+**August 15**: Workshop.
+
 **July 18**: Final schedule online.
 
 **May 17**: We extended the deadline for direct submission to WASSA 2024, new deadline = **22 May 2024 AOE**
@@ -26,9 +28,18 @@ header:
 
 **Nov 3**: The 2024 edition of WASSA will be collocated with ACL 2024, in Bangkok, Thailand. We will have more information out soon regarding the call for papers, etc.
 
-### Invited Speakers
+### Invited Speaker
 
-TBA
+#### Debora Nozza
+
+<img src="/assets/images/debora_nozza.jpeg" width="200" height="100">
+
+#### Abstract
+The proliferation of hate speech on social media platforms has been rising, with (pseudo-)anonymity allowing individuals to target others without being recognized or easily traced. While this societal issue has garnered significant attention in the NLP community, it presents three major challenges. Hate speech detection models need to be fair, work across all languages, and incorporate personalization while balancing privacy concerns. Addressing these challenges will revolutionize the field of hate speech detection and contribute to the development of a "universal" model that can adapt to individual user perspectives. In this talk, I will present my contributions in this area along with my perspectives on future directions.
+
+#### Bio
+
+Debora Nozza is an Assistant Professor in Computing Sciences at Bocconi University. Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
 
 ### Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
