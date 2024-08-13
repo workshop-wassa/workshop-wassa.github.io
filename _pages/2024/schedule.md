@@ -99,7 +99,7 @@ Shared tasks in-person posters:
 - *Daisy at WASSA 2024 Empathy and Personality Shared Task: A Quick Exploration on Emotional Pattern of Empathy and Distress* Rendi Chevi, Alham Fikri Aji
 - *Fraunhofer SIT at WASSA 2024 Empathy and Personality Shared Task: Use of Sentiment Transformers and Data Augmentation With Fuzzy Labels to Predict Emotional Reactions in Conversations and Essays* Raphael Antonius Frick, Martin Steinebach
 - *EmpatheticFIG at WASSA 2024 Empathy and Personality Shared Task: Predicting Empathy and Emotion in Conversations with Figurative Language* Gyeongeun Lee, Zhu Wang, Sathya N. Ravi, Natalie Parde
-
+- *Last-min-submission at WASSA 2024 Empathy and Personality Shared Task: Enhancing Emotional Intelligence with Prompts* Svetlana Churina, Preetika Verma, Suchismita Tripathy
 
 ### Invited Talk: Debora Nozza (remote)
 ---
@@ -156,5 +156,4 @@ Shared tasks virtual posters
 - *Zhenmei at WASSA-2024 Empathy and Personality Shared Track: Incorporating Pearson Correlation Coefficient as a Regularization Term for Enhanced Empathy and Emotion Prediction in Conversational Turns* Liting huang, Huizhi Liang
 - *NU at WASSA 2024 Empathy and Personality Shared Task: Enhancing Personality Predictions with Knowledge Graphs; A Graphical Neural Network and LightGBM Ensemble Approach* Emmanuel Osei-Brefo, Huizhi Liang
 - *hyy33 at WASSA 2024 Empathy and Personality Shared Task: Using the CombinedLoss and FGM for Enhancing BERT-based Models in Emotion and Empathy Prediction from Conversation Turns* Huiyu Yang, liting huang, Tian Li, Nicolay Rusnachenko, Huizhi Liang
-- *Last-min-submission at WASSA 2024 Empathy and Personality Shared Task: Enhancing Emotional Intelligence with Prompts* Svetlana Churina, Preetika Verma, Suchismita Tripathy
 
