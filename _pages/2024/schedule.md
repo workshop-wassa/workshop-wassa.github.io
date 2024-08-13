@@ -60,7 +60,7 @@ Chair: Els Lefever
 ---
 Chair: TBA
 
-- 11:00 - 11:15 -(remote)*Findings of WASSA 2024 Shared Task on Empathy, Emotion and Personality Detection in Conversation and Reactions to News Articles.* Valentin Barriere, João Sedoc, Shabnam Tafreshi and Salvatore Giorgi
+- 11:00 - 11:15 -(remote)*Findings of WASSA 2024 Shared Task on Empathy, Emotion and Personality Detection in Conversation and Reactions to News Articles.* Salvatore Giorgi, João Sedoc, Valentin Barriere and Shabnam Tafreshi
 - 11:15 - 11:30 -(in-person)*ConText at WASSA 2024 Empathy and Personality Shared Task: History-Dependent Embedding Utterance Representations for Empathy and Emotion Prediction in Conversations*  Patrícia Pereira, Helena Silva Moniz, Joao Paulo Carvalho
 - 11:30 - 11:45 -(in-person)*Findings of WASSA 2024 Shared Task: Explainability of Cross-lingual Emotion Detection.* Aaron Maladry, Pranaydeep Singh, and Els Lefever.
 - 11:45 - 12:00 -(in-person)*TEII: Think, Explain, Interact and Iterate with Large Language Models to Solve Cross-lingual Emotion Detection* Long Cheng, Qihao Shao, Christine Zhao, Sheng Bi, Gina-Anne Levow
@@ -107,8 +107,8 @@ Chair: Orphée De Clercq (remote) & Els Lefever (in-person)
 
 <img src="/assets/images/debora_nozza.jpeg" width="200" height="100">
 
-#### Title: TBA
-
+#### Abstract
+The proliferation of hate speech on social media platforms has been rising, with (pseudo-)anonymity allowing individuals to target others without being recognized or easily traced. While this societal issue has garnered significant attention in the NLP community, it presents three major challenges. Hate speech detection models need to be fair, work across all languages, and incorporate personalization while balancing privacy concerns. Addressing these challenges will revolutionize the field of hate speech detection and contribute to the development of a "universal" model that can adapt to individual user perspectives. In this talk, I will present my contributions in this area along with my perspectives on future directions.
 
 #### Bio
 
