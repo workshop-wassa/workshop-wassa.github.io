@@ -58,7 +58,7 @@ Chair: Els Lefever
 ### Shared Task
 
 ---
-Chair: TBA
+Chair: Piotr Przybyła
 
 - 11:00 - 11:15 -(remote)*Findings of WASSA 2024 Shared Task on Empathy, Emotion and Personality Detection in Conversation and Reactions to News Articles.* Salvatore Giorgi, João Sedoc, Valentin Barriere and Shabnam Tafreshi
 - 11:15 - 11:30 -(in-person)*ConText at WASSA 2024 Empathy and Personality Shared Task: History-Dependent Embedding Utterance Representations for Empathy and Emotion Prediction in Conversations*  Patrícia Pereira, Helena Silva Moniz, Joao Paulo Carvalho
