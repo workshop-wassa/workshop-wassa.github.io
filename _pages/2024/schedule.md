@@ -137,6 +137,7 @@ Chair: Pranaydeep Singh
 ### Hybrid Poster session
 ---
 Chair: Aaron Maladry
+Location: click on "Teleport to Gather" in Underline
 
 Main workshop virtual posters
 - *Subjectivity Detection in English News using Large Language Models.* Mohammad Shokri, Vivek Sharma, Elena Filatova, Shweta Jain, Sarah Ita Levitan 
