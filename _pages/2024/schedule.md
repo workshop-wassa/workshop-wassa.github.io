@@ -69,6 +69,7 @@ Chair: TBA
 
 ---
 Chair: Aaron Maladry
+
 Location: big hall downstairs CCA1 (boards 133-168)
 
 Main workshop in-person posters:
@@ -137,6 +138,7 @@ Chair: Pranaydeep Singh
 ### Hybrid Poster session
 ---
 Chair: Aaron Maladry
+
 Location: click on "Teleport to Gather" in Underline
 
 Main workshop virtual posters
