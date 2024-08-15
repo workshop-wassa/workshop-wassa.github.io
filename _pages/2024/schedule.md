@@ -68,7 +68,8 @@ Chair: TBA
 ### In-person Poster session
 
 ---
-Chair: TBA
+Chair: Aaron Maladry
+Location: big hall downstairs CCA1 (boards 133-168)
 
 Main workshop in-person posters:
 - *Entity-Level Sentiment: More than the Sum of Its Parts.* Egil Rønningstad, Roman Klinger, Erik Velldal, Lilja Øvrelid 
@@ -118,7 +119,7 @@ Debora Nozza is an Assistant Professor in Computing Sciences at Bocconi Universi
 ### Oral presentation session 2
 
 ---
-Chair: TBA
+Chair: Pranaydeep Singh
 
 - 16:00 - 16:15 - (remote)*Hierarchical Adversarial Correction to Mitigate Identity Term Bias in Toxicity Detection* Johannes Schäfer, Ulrich Heid, Roman Klinger 
 - 16:15 - 16:30 - (in-person)*Comparing Tools for Sentiment Analysis of Danish Literature from Hymns to Fairy Tales: Low-Resource Language and Domain Challenges.* Pascale Feldkamp, Jan Kostkan, Ea Lindhardt Overgaard, Mia Jacobsen, Yuri Bizzoni 
