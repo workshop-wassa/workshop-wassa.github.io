@@ -1,7 +1,7 @@
 # wassa-workshop.github.io
 
 
-Repository for website https://wassa-workshop.github.io
+Repository for website https://workshop-wassa.github.io
 
 ## Editing
 
