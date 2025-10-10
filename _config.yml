@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "WASSA 2024"
+title                    : "WASSA 2026"
 title_separator          : "–"
 name                     : "the WASSA organisers"
 description              : "Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis"
-url                      : "https://wassa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://workshop-wassa.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"

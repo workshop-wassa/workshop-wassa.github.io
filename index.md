@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at ACL 2024<br/> Bangkok, Thailand"
+excerpt: "WASSA at EACL 2026<br/> Rabat, Morocco"
 layout: single
 classes: wide
 header:
@@ -10,41 +10,22 @@ header:
   overlay_image: /assets/images/banner3.jpg
 ---
 
-## 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
+## 15th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
 
-**August 15**: Workshop.
+**Oct 10**: The 2026 edition of WASSA will be collocated with EACL 2026, in Rabat, Morocco. We will have more information out soon regarding the call for papers, etc.
 
-**July 18**: Final schedule online.
-
-**May 17**: We extended the deadline for direct submission to WASSA 2024, new deadline = **22 May 2024 AOE**
-
-**April 18**: Second CFP.
-
-**March 6**: The first call for papers is out.
-
-**Jan 15**: We have confirmation that WASSA will take place on Thursday 15 August 2024.
-
-**Nov 3**: The 2024 edition of WASSA will be collocated with ACL 2024, in Bangkok, Thailand. We will have more information out soon regarding the call for papers, etc.
+**Oct 10**: The openreview instance is ready for submissions: https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA
 
 ### Invited Speaker
 
-#### Debora Nozza
-
-<img src="/assets/images/debora_nozza.jpeg" width="200" height="100">
-
-#### Abstract
-The proliferation of hate speech on social media platforms has been rising, with (pseudo-)anonymity allowing individuals to target others without being recognized or easily traced. While this societal issue has garnered significant attention in the NLP community, it presents three major challenges. Hate speech detection models need to be fair, work across all languages, and incorporate personalization while balancing privacy concerns. Addressing these challenges will revolutionize the field of hate speech detection and contribute to the development of a "universal" model that can adapt to individual user perspectives. In this talk, I will present my contributions in this area along with my perspectives on future directions.
-
-#### Bio
-
-Debora Nozza is an Assistant Professor in Computing Sciences at Bocconi University. Her research interests mainly focus on Natural Language Processing, specifically on the detection and counter-acting of hate speech and algorithmic bias on Social Media data in multilingual context.
+TBA
 
 ### Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
 
-The aim of WASSA 2024 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. For this edition, we encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
+The aim of WASSA 2026 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. For this edition, we encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
 
 
 - Resources for subjectivity, sentiment, emotion and social media analysis
@@ -63,7 +44,6 @@ The aim of WASSA 2024 is to bring together researchers working on Subjectivity, 
 - Applications of sentiment and emotion mining
 - Public sentiments and communication patterns of public health emergencies.
 
-In the past years we have noticed that WASSA offers a platform to researchers investigating sentiment and emotion in lesser-resourced languages. The 2023 edition featured work on no less than 23 different languages and two papers specifically targeted multilingual emotion detection. We wish to continue these efforts as we find it important to consider and publish advances in any language as this helps to underline the wealth of our research community and to diminish the dominance of English-language research. To this purpose we propose a **Special track on multilinguality and social bridge between high- and lesser-resourced languages/communities**.
 
 ### Sponsors:
 TBA
