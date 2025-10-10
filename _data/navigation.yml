@@ -1,17 +1,15 @@
 main:
   - title: "Schedule"
-    url: /2024/schedule/
+    url: /2026/schedule/
   - title: "Important Dates"
-    url: /2024/dates/
+    url: /2026/dates/
   - title: "Submission"
-    url: /2024/submissions/
-  - title: "Shared Task"
-    url: /2024/shared_task/
+    url: /2026/submissions/
   - title: "Committee"
-    url: /2024/committee/
+    url: /2026/committee/
   - title: "Contact"
-    url: /2024/contact/
+    url: /2026/contact/
   - title: "Call"
-    url: /2024/call-for-papers/
+    url: /2026/call-for-papers/
   - title: "Previous editions"
-    url: /2023/
+    url: /2024/
