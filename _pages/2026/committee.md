@@ -28,12 +28,12 @@ window.addEventListener("load", init, false);
 
 # Main Workshop:
 Jeremy Barnes, University of the Basque Country UPV/EHU\
-Valentin Barriere, Centro Nacional de Inteligencia Artificial (CENIA)\
+Valentin Barriere, Universidad de Chile\
 Orphée De Clercq, Ghent University\
 Roman Klinger, University of Stuttgart\
 Debora Nozza, Bocconi University\
 Celia Nouri, INRIA\
-Pranaydeep Singh, Ghent University\
+Pranaydeep Singh, Ghent University
 
 ### Programme Committee
 
