@@ -1,6 +1,6 @@
 ---
 title: "Important Dates"
-permalink: /2024/dates/
+permalink: /2026/dates/
 layout: single
 classes: wide
 header:
@@ -11,12 +11,12 @@ header:
 
 ### Important Dates:
 
-* March 6, 2024 - First call for papers
-* April 15, 2024 - Second call for papers
-* ~~May 17, 2024~~ **May 22, 2024** - Direct paper submission deadline (extended)
-* May 24, 2024 - Paper commitment from ARR
-* ~~June 17, 2024~~ **June 21, 2024** – Notification of acceptance 
-* July 1, 2024 - Camera-ready papers due
-* August 15 or 16, 2024 – Workshop
+* October 15 – First call for papers.
+* December 19, 2025 – Direct submission deadline.
+* January 2, 2026 – Pre-reviewed (ARR) submission deadline.
+* January 23, 2026 – Notification of acceptance.
+* February 3, 2026 – Camera-ready papers due.
+* March (24-29?) – Workshop.
 
-All deadlines are 23:59 UTC-12.
+
+All deadlines are AoE.

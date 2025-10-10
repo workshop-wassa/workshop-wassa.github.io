@@ -1,6 +1,6 @@
 ---
 title: "Committees"
-permalink: /2024/committee/
+permalink: /2026/committee/
 layout: single
 classes: wide
 header:
@@ -27,12 +27,13 @@ window.addEventListener("load", init, false);
 ### Organisers
 
 # Main Workshop:
-Orphée De Clercq, Ghent University\
-Valentin Barriere, Centro Nacional de Inteligencia Artificial (CENIA)\
 Jeremy Barnes, University of the Basque Country UPV/EHU\
+Valentin Barriere, Centro Nacional de Inteligencia Artificial (CENIA)\
+Orphée De Clercq, Ghent University\
 Roman Klinger, University of Stuttgart\
-Joaõ Sedoc, New York University\
-Shabnam Tafreshi, University of Maryland\
+Debora Nozza, Bocconi University\
+Celia Nouri, INRIA\
+Pranaydeep Singh, Ghent University\
 
 ### Programme Committee
 

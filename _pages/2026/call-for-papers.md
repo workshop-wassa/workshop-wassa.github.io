@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers"
-permalink: /2024/call-for-papers/
+permalink: /2026/call-for-papers/
 layout: single
 classes: wide
 header:
@@ -9,13 +9,13 @@ header:
   overlay_image: /assets/images/banner3.jpg
 ---
 
-## 14th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2024)
-### ACL’24, Bangkok, Thailand, 15 August, 2024
+## 15th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis (WASSA 2026)
+### EACL’26, Rabat, Morocco
 
 ## Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities.
 
-The aim of WASSA 2024 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. For this edition, we encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
+The aim of WASSA 2026 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. For this edition, we encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
 
 - Resources for subjectivity, sentiment, emotion and social media analysis
 - Opinion retrieval, extraction, categorization, aggregation and summarization
@@ -37,23 +37,16 @@ In the past years we have noticed that WASSA offers a platform to researchers in
 
 ### Important dates
 
-* ~~May 17, 2024~~ **May 22, 2024** – Submission deadline.
-* June 17, 2024 – Notification of acceptance
-* July 1, 2024 - Camera-ready papers due.
-* August 15, 2024 – Workshop.
+* December 19, 2025 – Direct submission deadline.
+* January 2, 2026 – Pre-reviewed (ARR) submission deadline
+* January 23, 2026 – Notification of acceptance
+* February 3, 2026 - Camera-ready papers due.
+* March (24-29?) – Workshop.
 
-### Shared tasks
-
-This year two shared tasks are co-located with WASSA:
-
-- A fourth run of the shared task on [Empathy Detection and Emotion Classification](https://workshop-wassa.github.io/2024/shared_task/)
-- Another task on Explainability of Cross-lingual Emotion Detection, [EXALT](https://lt3.ugent.be/exalt/)
-
-Please note that both tasks follow a different timeline. 
 
 ### Papers
 
-At WASSA 2024, we will accept three types of submissions:
+At WASSA 2026, we will accept three types of submissions:
 
 For the regular research track we accept **long** & **short** papers.
 
@@ -76,9 +69,11 @@ Additionally, **system description papers** from the shared tasks will be presen
 
 ### Submission procedure and templates
 
-Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/WASSA).
+Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA).
 
+<!---
 Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to our [ARR OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/WASSA_ARR_Commitment) and click on "ACL 2024 Workshop WASSA Commitment Submission". You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information. The commitment date for ARR papers with reviews is May 24.
+-->
 
 Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the ACL templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
 The submitting author must have an OpenReview profile. Please ensure profiles are complete at least 2 weeks before submission. [This tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.gcfa2063058_0_0) from the ACL Rolling Review might be helpful.

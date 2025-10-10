@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /2024/contact/
+permalink: /2026/contact/
 layout: single
 classes: wide
 header:
@@ -24,6 +24,6 @@ window.addEventListener("load", init, false);
 </script>
 
 
-For questions and comments regarding the *main workshop* please contact the organisers at <span class="contactaddr">orphee.declercq<span class="athere"></span>ugent.be</span>.
+For questions and comments regarding the workshop please contact the organisers at <span class="contactaddr">wassa.workshop<span class="athere"></span>gmail.com</span>.
 
 
