@@ -16,7 +16,7 @@ header:
 
 **Oct 10**: The 2026 edition of WASSA will be collocated with EACL 2026, in Rabat, Morocco. We will have more information out soon regarding the call for papers, etc.
 
-**Oct 10**: The [openreview instance](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA)[https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) is up and will be ready for submissions starting October 15th. 
+**Oct 10**: The [openreview instance](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) is up and will be ready for submissions starting October 15th. 
 
 ### Invited Speaker
 
