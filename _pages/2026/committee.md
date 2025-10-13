@@ -30,7 +30,7 @@ window.addEventListener("load", init, false);
 Jeremy Barnes, University of the Basque Country UPV/EHU\
 Valentin Barriere, Universidad de Chile\
 Orphée De Clercq, Ghent University\
-Roman Klinger, University of Stuttgart\
+Roman Klinger, University of Bamberg\
 Debora Nozza, Bocconi University\
 Celia Nouri, INRIA\
 Pranaydeep Singh, Ghent University
