@@ -50,7 +50,7 @@ At WASSA 2026, we will accept three types of submissions:
 
 For the regular research track we accept **long** & **short** papers.
 
-Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere. They must be committed to the workshop (together with the reviews) not later than May 24, 2024.
+Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere. They must be committed to the workshop (together with the reviews) not later than Jan 2, 2026.
 
 #### Long papers
 **Long** papers may consist of up to eight (8) pages of content, with any number of additional pages of references, and will be presented orally.
@@ -63,7 +63,7 @@ Additionally, we accept double submissions and double commitment of ARR reviews 
 #### Demo papers
 Also this year is there is an industry track, for which we accept **demo papers**:
 
-- **Demo papers** describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://2024.aclweb.org/calls/system_demonstration/">click here</a>.
+- **Demo papers** describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://2026.eacl.org/calls/demos/">click here</a>.
 
 Additionally, **system description papers** from the shared tasks will be presented either orally or as poster.
 
