@@ -37,7 +37,7 @@ The aim of WASSA 2026 is to bring together researchers working on Subjectivity, 
 - Public sentiments and communication patterns of public health emergencies
 - The analysis of pretrained small and large language models.
 
-Finally, this year we also propose a **Special track on multilinguality and socio-cultural adaptation to lesser-resourced languages/communities**.
+Finally, this year we also propose a **special track on multilinguality and socio-cultural adaptation to lesser-resourced languages/communities**.
 
 In general, we particularly invite contributions from young researchers, work on low-resource languages, multilingual methods, and interdisciplinary work.
 
@@ -63,18 +63,13 @@ For the regular research track we accept **long** & **short** papers.
 
 Additionally, we accept double submissions and double commitment of ARR reviews in parallel to WASSA and another venue. Please note that you must immediately withdraw your paper from WASSA if you decide to publish it elsewhere. Check with the other venue if they also allow double submissions.
 
-#### Long papers
 **Long papers** may consist of up to eight (8) pages of content, with any number of additional pages of references. A- subset of these papers will be presented orally.
 
-#### Short papers
 **Short papers** may consist of up to four (4) pages of content, with any number of additional pages of references. Most of these papers will be presented as posters.
 
-#### Demo papers
 Also this year there is an industry track, for which we accept **demo** papers: 
 
 - **Demo papers** describe system demonstrations, ranging from early prototypes to mature production-ready systems. Please note: Commercial sales and marketing activities are not appropriate for this track. Demo papers may consist of up to six (6) pages of content, these will be presented as a poster and should include a live demonstration. For more information <a href="https://2026.eacl.org/calls/demos/">click here</a>.
-
-Additionally, **system description papers** from the shared tasks will be presented either orally or as poster.
 
 ### Submission procedure and templates
 
@@ -97,11 +92,11 @@ ARR encourages the submission of these supplementary materials to improve the re
 
 #### Organizers
 
-Jeremy Barnes, University of the Basque Country
-Valentin Barriere, University of Chile
-Orphée De Clercq, Ghent University
-Roman Klinger, University of Bamberg
-Célia Nouri, Inria and Sciences Po
-Debora Nozza, Bocconi University
-Pranaydeep Singh, Ghent University
+- Jeremy Barnes, University of the Basque Country
+- Valentin Barriere, University of Chile
+- Orphée De Clercq, Ghent University
+- Roman Klinger, University of Bamberg
+- Célia Nouri, Inria and Sciences Po
+- Debora Nozza, Bocconi University
+- Pranaydeep Singh, Ghent University
 
