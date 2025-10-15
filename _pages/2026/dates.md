@@ -12,11 +12,11 @@ header:
 ### Important Dates:
 
 * October 15 – First call for papers.
-* December 19, 2025 – Direct submission deadline.
-* January 2, 2026 – Pre-reviewed (ARR) submission deadline.
-* January 23, 2026 – Notification of acceptance.
-* February 3, 2026 – Camera-ready papers due.
-* March (24-29?) – Workshop.
+* December 17, 2025: Direct submission deadline.
+* January 2, 2026: ARR submission deadline.
+* January 23, 2026: Notification of acceptance.
+* February 3, 2026: Camera Ready Papers due.
+* March 24–29, 2026: EACL with WASSA workshop on one of the days.
 
 
 All deadlines are AoE.

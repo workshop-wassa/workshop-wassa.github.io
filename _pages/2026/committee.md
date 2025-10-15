@@ -32,7 +32,7 @@ Valentin Barriere, Universidad de Chile\
 Orphée De Clercq, Ghent University\
 Roman Klinger, University of Bamberg\
 Debora Nozza, Bocconi University\
-Celia Nouri, INRIA\
+Célia Nouri, Inria and Sciences Po\
 Pranaydeep Singh, Ghent University
 
 ### Programme Committee

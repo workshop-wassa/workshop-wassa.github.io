@@ -11,7 +11,7 @@ header:
 
 ### Paper Submission and Templates
 
-Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) with the deadline for direct submission on December 19, 2025. 
+Submission is electronic, through the [OpenReview portal for the workshop](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) with the deadline for direct submission on December 17, 2025. 
 
 Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the ACL templates available on the [ACL Rolling Review website](https://aclrollingreview.org/cfp).
 The submitting author must have an OpenReview profile. Please ensure profiles are complete at least two weeks before submission. [This tutorial](https://docs.google.com/presentation/d/1kJeoAfwbnFapUN0ySLSoOm11-2odz48DGS1DEzNs03k/edit#slide=id.gcfa2063058_0_0) from the ACL Rolling Review might be helpful. 
