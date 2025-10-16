@@ -20,6 +20,8 @@ header:
 
 **Oct 15**: The First Call for Papers is out, check out the [dedicated page](https://workshop-wassa.github.io/2026/call-for-papers/) for more details. 
 
+**Oct 16**: The [ARR commitment page](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA_ARR_Commitment) is now ready for any submissions until January 2nd, 2026.
+
 ### Invited Speaker
 
 TBA
