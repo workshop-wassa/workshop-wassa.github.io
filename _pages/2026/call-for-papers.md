@@ -76,9 +76,10 @@ Also this year there is an industry track, for which we accept **demo** papers:
 Submissions without reviews can be done directly through our [OpenReview website](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA).
 
 Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to our ARR Website and click on “ACL 2026 Workshop WASSA Commitment Submission”. You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information.
-<!---
-Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to our [ARR OpenReview website](https://openreview.net/group?id=aclweb.org/ACL/2024/Workshop/WASSA_ARR_Commitment) and click on "ACL 2024 Workshop WASSA Commitment Submission". You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information. The commitment date for ARR papers with reviews is May 24.
--->
+
+
+Authors who received reviews already through the ACL Rolling Review process are invited to commit their reviewed paper to WASSA. To do so, please go to our [ARR OpenReview website](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA_ARR_Commitment) and click on "ACL 2024 Workshop WASSA Commitment Submission". You will then need to add the title, the URL to the ARR submission with reviews + metareview, and other information. The commitment date for ARR papers with reviews is January 2, 2026.
+
 
 Both long and short papers must be anonymised for double-blind reviewing, must follow the [ACL Author Guidelines](https://www.aclweb.org/adminwiki/index.php?title=ACL_Author_Guidelines), and must use the [ACL templates](https://github.com/acl-org/acl-style-files).
 The submitting author must have an OpenReview profile. 
