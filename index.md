@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at EACL 2026<br/> Rabat, Morocco"
+excerpt: "WASSA at EACL 2026<br/> Rabat, Morocco - March 29"
 layout: single
 classes: wide
 header:
@@ -13,6 +13,9 @@ header:
 ## 15th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
+
+**Jan 21**: WASSA will be held on the 29th of March, as a half-day workshop (14:00-17:30)
+
 
 **Oct 10**: The 2026 edition of WASSA will be collocated with EACL 2026, in Rabat, Morocco. We will have more information out soon regarding the call for papers, etc.
 
