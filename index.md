@@ -16,7 +16,6 @@ header:
 
 **Jan 21**: WASSA will be held on the 29th of March, as a half-day workshop (14:00-17:30)
 
-
 **Oct 10**: The 2026 edition of WASSA will be collocated with EACL 2026, in Rabat, Morocco. We will have more information out soon regarding the call for papers, etc.
 
 **Oct 10**: The [openreview instance](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) is up and will be ready for submissions starting October 15th. 
@@ -27,7 +26,8 @@ header:
 
 ### Invited Speaker
 
-TBA
+[Jose Camacho-Collados](https://josecamachocollados.com): Cardiff University
+
 
 ### Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities, where it can support the study of online interactions, group dynamics, and public discourse.
