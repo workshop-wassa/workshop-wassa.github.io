@@ -36,6 +36,8 @@ All times are local Rabat (GMT/UTC +0h)
 
 ---
 
+- *The Impact of Highlighting Subjective Language on Perceived News Trustworthiness.* Mohammad Shokri, Vivek Sharma, Emily Klapper, Shweta Jain, Elena Filatova, Sarah Ita Levitan. (remote)
+
 
 ### Invited Talk: Jose Camacho-Collados
 
@@ -61,12 +63,61 @@ Jose has worked in multiple NLP areas with a particular focus on semantics, mult
 
 ---
 
+- *Crowd-Based Evaluation of Emotion Preservation in Spanish--Basque Tweet Machine Translation.* Nora Aranberri.
+
 
 ### Oral presentation session 3
 
 ---
 
+- *Disentangling Emotion Understanding and Generation in Large Language Models.* Sadegh Jafari, Els Lefever, Veronique Hoste.
 
 ### Poster session 
 
 ---
+
+In-person poster session:
+
+- *Emoji Reactions on Telegram: Unreliable Indicators of Emotional Resonance.* Serena Tardelli, Lorenzo Alvisi, Lorenzo Cima, Stefano Cresci, Maurizio Tesconi
+
+- *Measuring LLMs’ Sensitivity to Paraphrased Opinion Prompts.* Bushra Alhetelah, Irfan Ahmad
+
+- *Appraisal Trajectories in Narratives Reveal Distinct Patterns of Emotion Evocation.* Johannes Schäfer, Janne Wagner, Roman Klinger
+
+- *Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Model.* Donya Rooein, Flor Miriam Plaza-del-Arco, Debora Nozza, Dirk Hovy
+
+- *Emotion-aware text simplification of user generated content using LLMs.* Anastasiia Bezobrazova, Daria Sokova, Constantin Orasan
+
+- *A Position Paper on Toxic Reasoning: Grounding Categories of Toxic Language in Implications and Attitudes.* Stefan F. Schouten, Ilia Markov, Piek Vossen
+
+- *Is Sentiment Banana-Shaped? Exploring the Geometry and Portability of Sentiment Concept Vectors.* Laurits Lyngbaek, Pascale Feldkamp, Yuri Bizzoni, Kristoffer Nielbo, Kenneth Enevoldsen
+
+- *News Credibility Assessment by LLMs and Humans: Implications for Political Bias.* Pia Wenzel Neves, Charlott Jakob, Vera Schmitt
+
+- *Towards Simulating Social Media Users with LLMs: Evaluating the Operational Validity of Conditioned Comment Prediction.* Nils Schwager, Simon Münker, Alistair Plum, Achim Rettinger
+
+- *Says Who? Argument Convincingness and Reader Stance Are Correlated with Perceived Author Personality.* Sabine Weber, Lynn Greschner, Roman Klinger
+
+- *Multimodal Claim Extraction for Fact-Checking.* Joycelyn Teo, RUI CAO, Zhenyun Deng, Zifeng Ding, Michael Sejr Schlichtkrull, Andreas Vlachos
+
+- *A Multi-Aspect Evaluation Framework for Synthetic Data: Case Study on Irony and Sarcasm.* Laura Majer, Ana Barić, Florijan Sandalj, Ivan Unković, Bojan Puvača, Jan Šnajder
+
+
+Remote poster session:
+
+
+- *Council of LLMs: Evaluating Capability of Large Language Models to Annotate Propaganda.* Vivek Sharma, Shweta Jain, Mohammad Shokri, Sarah Ita Levitan, Elena Filatova
+
+- *Quantifying Social Sentiment in Hostels Using A Domain-Specific Transformer Pipeline.* Ian W. McMurry
+
+- *Predicting Convincingness in Political Speech: How Emotional Tone Shapes Persuasive Strength.* Bhuvanesh Verma, Mounika Marreddy, Alexander Mehler
+
+- *Emotional Lexicons: How Large Language Models Predict Emotional Ratings of Russian Words.* Polina V. Iaroshenko, Natalia V Loukachevitch
+
+- *Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents.* Mohammad Hossein Akbari Monfared, Lucie Flek, Akbar Karimi
+
+- *Antisocial Behavior Prediction: A Survey and Practical Guide.* Anaïs Ollagnier
+
+- *Real-Time Mitigation of Negative Emotion in Customer Care Calls.* Surupendu Gangopadhyay, Mahnoosh Mehrabani
+
+- *A Transformer and Prototype-based Interpretable Model for Contextual Sarcasm Detection.* Ximing Wen, Rezvaneh Rezapour
