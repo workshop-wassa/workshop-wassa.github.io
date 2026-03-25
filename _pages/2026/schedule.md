@@ -22,6 +22,7 @@ All times are local Rabat (GMT/UTC +0h)
 
 |  Time          |  Programmed Session          |
 | ---------------| -----------------------------|
+|  12:00 - 13:10 | Virtual Poster Session                |
 |  14:00 - 14:10 | Opening and welcome note                |
 |  14:10 - 14:25 | [Oral presentation session 1](#oral-presentation-session-1) (best paper)   |
 |  14:25 - 15:30 | [Invited Talk: Jose Camacho-Collados](#invited-talk-jose-camacho-collados) - Social Media Analysis in the Language Model Era: An Interdisciplinary Perspective |
@@ -80,8 +81,6 @@ In-person poster session:
 
 - *Emoji Reactions on Telegram: Unreliable Indicators of Emotional Resonance.* Serena Tardelli, Lorenzo Alvisi, Lorenzo Cima, Stefano Cresci, Maurizio Tesconi
 
-- *Measuring LLMs’ Sensitivity to Paraphrased Opinion Prompts.* Bushra Alhetelah, Irfan Ahmad
-
 - *Appraisal Trajectories in Narratives Reveal Distinct Patterns of Emotion Evocation.* Johannes Schäfer, Janne Wagner, Roman Klinger
 
 - *Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Model.* Donya Rooein, Flor Miriam Plaza-del-Arco, Debora Nozza, Dirk Hovy
@@ -121,3 +120,6 @@ Remote poster session:
 - *Real-Time Mitigation of Negative Emotion in Customer Care Calls.* Surupendu Gangopadhyay, Mahnoosh Mehrabani
 
 - *A Transformer and Prototype-based Interpretable Model for Contextual Sarcasm Detection.* Ximing Wen, Rezvaneh Rezapour
+
+- *Measuring LLMs’ Sensitivity to Paraphrased Opinion Prompts.* Bushra Alhetelah, Irfan Ahmad
+
