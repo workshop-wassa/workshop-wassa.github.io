@@ -85,8 +85,6 @@ In-person poster session:
 
 - *Exploring Subjective Tasks in Farsi: A Survey Analysis and Evaluation of Language Model.* Donya Rooein, Flor Miriam Plaza-del-Arco, Debora Nozza, Dirk Hovy
 
-- *Emotion-aware text simplification of user generated content using LLMs.* Anastasiia Bezobrazova, Daria Sokova, Constantin Orasan
-
 - *A Position Paper on Toxic Reasoning: Grounding Categories of Toxic Language in Implications and Attitudes.* Stefan F. Schouten, Ilia Markov, Piek Vossen
 
 - *Is Sentiment Banana-Shaped? Exploring the Geometry and Portability of Sentiment Concept Vectors.* Laurits Lyngbaek, Pascale Feldkamp, Yuri Bizzoni, Kristoffer Nielbo, Kenneth Enevoldsen
@@ -122,4 +120,6 @@ Remote poster session:
 - *A Transformer and Prototype-based Interpretable Model for Contextual Sarcasm Detection.* Ximing Wen, Rezvaneh Rezapour
 
 - *Measuring LLMs’ Sensitivity to Paraphrased Opinion Prompts.* Bushra Alhetelah, Irfan Ahmad
+
+- *Emotion-aware text simplification of user generated content using LLMs.* Anastasiia Bezobrazova, Daria Sokova, Constantin Orasan
 
