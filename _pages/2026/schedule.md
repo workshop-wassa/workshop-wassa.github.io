@@ -22,7 +22,7 @@ All times are local Rabat (GMT/UTC +0h)
 
 |  Time          |  Programmed Session          |
 | ---------------| -----------------------------|
-|  12:00 - 13:10 | Virtual Poster Session                |
+|  12:00 - 13:00 | Virtual Poster Session                |
 |  14:00 - 14:10 | Opening and welcome note                |
 |  14:10 - 14:25 | [Oral presentation session 1](#oral-presentation-session-1) (best paper)   |
 |  14:25 - 15:30 | [Invited Talk: Jose Camacho-Collados](#invited-talk-jose-camacho-collados) - Social Media Analysis in the Language Model Era: An Interdisciplinary Perspective |
