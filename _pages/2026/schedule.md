@@ -99,6 +99,8 @@ In-person poster session:
 
 - *A Multi-Aspect Evaluation Framework for Synthetic Data: Case Study on Irony and Sarcasm.* Laura Majer, Ana Barić, Florijan Sandalj, Ivan Unković, Bojan Puvača, Jan Šnajder
 
+- *Emotional Lexicons: How Large Language Models Predict Emotional Ratings of Russian Words.* Polina V. Iaroshenko, Natalia V Loukachevitch
+
 
 Remote poster session:
 
@@ -108,8 +110,6 @@ Remote poster session:
 - *Quantifying Social Sentiment in Hostels Using A Domain-Specific Transformer Pipeline.* Ian W. McMurry
 
 - *Predicting Convincingness in Political Speech: How Emotional Tone Shapes Persuasive Strength.* Bhuvanesh Verma, Mounika Marreddy, Alexander Mehler
-
-- *Emotional Lexicons: How Large Language Models Predict Emotional Ratings of Russian Words.* Polina V. Iaroshenko, Natalia V Loukachevitch
 
 - *Label-Consistent Data Generation for Aspect-Based Sentiment Analysis Using LLM Agents.* Mohammad Hossein Akbari Monfared, Lucie Flek, Akbar Karimi
 
