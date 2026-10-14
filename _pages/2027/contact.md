@@ -1,6 +1,6 @@
 ---
 title: "Contact"
-permalink: /2026/contact/
+permalink: /2027/contact/
 layout: single
 classes: wide
 header:

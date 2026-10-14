@@ -1,6 +1,6 @@
 ---
 title: "Submission"
-permalink: /2026/submissions/
+permalink: /2027/submissions/
 layout: single
 classes: wide
 header:
