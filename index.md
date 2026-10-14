@@ -1,7 +1,7 @@
 ---
 layout: splash
 permalink: /
-excerpt: "WASSA at EACL 2026<br/> Rabat, Morocco - March 29"
+excerpt: "WASSA at COLING 2027<br/> Macau, China - May 9-14th"
 layout: single
 classes: wide
 header:
@@ -10,29 +10,21 @@ header:
   overlay_image: /assets/images/banner3.jpg
 ---
 
-## 15th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
+## 16th Workshop on Computational Approaches to Subjectivity, Sentiment & Social Media Analysis
 
 ## News
 
-**Jan 21**: WASSA will be held on the 29th of March, as a half-day workshop (14:00-17:30)
+**Oct 14**: WASSA will be colocated with COLING in Macau, between May 9-14, 2027
 
-**Oct 10**: The 2026 edition of WASSA will be collocated with EACL 2026, in Rabat, Morocco. We will have more information out soon regarding the call for papers, etc.
-
-**Oct 10**: The [openreview instance](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA) is up and will be ready for submissions starting October 15th. 
-
-**Oct 15**: The First Call for Papers is out, check out the [dedicated page](https://workshop-wassa.github.io/2026/call-for-papers/) for more details. 
-
-**Oct 16**: The [ARR commitment page](https://openreview.net/group?id=eacl.org/EACL/2026/Workshop/WASSA_ARR_Commitment) is now ready for any submissions until January 2nd, 2026.
 
 ### Invited Speaker
-
-[Jose Camacho-Collados](https://josecamachocollados.com): Cardiff University
+TBA
 
 
 ### Background and Envisaged Scope
 Subjectivity and Sentiment Analysis has become a highly developed research area, ranging from binary classification of reviews to the detection of complex emotion structures between entities found in text. This field has expanded both on a practical level, finding numerous successful applications in business, as well as on a theoretical level, allowing researchers to explore more complex research questions related to affective computing. Its continuing importance is also shown by the interest it generates in other disciplines such as Economics, Sociology, Psychology, Marketing, Crisis Management & Digital Humanities, where it can support the study of online interactions, group dynamics, and public discourse.
 
-The aim of WASSA 2026 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. We encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
+The aim of WASSA 2027 is to bring together researchers working on Subjectivity, Sentiment Analysis, Emotion Detection and Classification and their applications to other NLP or real-world tasks (e.g. public health messaging, fake news, media impact analysis, social media mining, computational literary studies) and researchers working on interdisciplinary aspects of affect computation from text. We encourage the submission of long and short research and demo papers including, but not restricted to the following topics:
 
 - Resources for subjectivity, sentiment, emotion and social media analysis
 - Opinion retrieval, extraction, categorization, aggregation and summarization
